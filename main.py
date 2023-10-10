@@ -42,6 +42,9 @@ def start(message):
 
 @bot.message_handler(commands=['help'])
 def help(message):
+     """
+    Function that handles the help prpmpt
+    """
     # Read the contents of help.txt
     help_text = ""
     try:
