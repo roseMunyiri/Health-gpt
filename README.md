@@ -1,6 +1,6 @@
 # nuttri-bot: Your Personal Health Assistant
 
- nuttri-bot is a Telegram bot that serves as your personal health assistant. It can provide information and answer questions related to health. This README provides instructions on how to set up and use the Health-GPT bot.
+ nuttri-bot is a Telegram bot that serves as your personal health assistant. It can provide information and answer questions related to health. This README provides instructions on how to set up and use the bot.
 
 ## Features
 
