@@ -1,0 +1,14 @@
+
+I am nuttri-bot, your personal health assistant. I'm here to assist you with any health-related questions and provide information.
+
+Here are some available commands:
+- /start: Start using the bot.
+- /help: Get a list of the available commands.
+- /stop: End the conversation
+
+Feel free to use any of these commands to get started! If you have any questions or need assistance, don't hesitate to ask. Responses may take a while to load so
+give it a few seconds before trying again.
+
+
+Please note that I am not a medical professional, and the information I provide is for general guidance only. If you have specific medical concerns or questions, it's important to consult with a healthcare provider or medical professional.
+
