@@ -31,10 +31,10 @@ Once you have the pre-requisites installed, you can install the chatbot by runni
 1. Clone the repository
 
    ```
-   git clone https://github.com/yourusername/health-gpt.git
+   git clone https://github.com/yourusername/Nuttri-Bot.git
    ```
    ```
-   cd health-gpt
+   cd Nuttri-Bot
    ```
 
 2. Create a .env file in the project directory with your Telegram bot token and OpenAI API key:
