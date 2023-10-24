@@ -6,7 +6,6 @@ Here are some available commands:
 - /help: Get a list of the available commands.
 - /stop: End the conversation
 
-
 Feel free to use any of these commands to get started! If you have any questions or need assistance, don't hesitate to ask. Responses may take a while to load so
 give it a few seconds before trying again.
 
